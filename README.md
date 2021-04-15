@@ -16,5 +16,5 @@ Spring boot version : 2.4.1
 
 ## Dependencies
 
-- Default depedencies
+- Default Dependencies
 - Spring Web (spring-boot-starter-web)
