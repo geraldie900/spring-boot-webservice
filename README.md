@@ -14,7 +14,7 @@ JDK version : 15.0.1
 
 Spring boot version : 2.4.1
 
-## Depedencies
+## Dependencies
 
 - Default depedencies
 - Spring Web (spring-boot-starter-web)
